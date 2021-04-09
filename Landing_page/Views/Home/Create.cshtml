@@ -1,0 +1,94 @@
+﻿@model Landing_page.Models.Vendedor
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutPage1.cshtml";
+}
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="row" id="padre">
+
+        <div class="col-md-4" id="cuadro1">
+            <div class="m-0 row justify-content-center">
+
+                @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+                <div class="form-group">
+                    Nombre tienda o negocio
+                    @*@Html.LabelFor(model => model.Nombre_tienda, htmlAttributes: new { @class = "control-label col-md-2" })*@
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Nombre_tienda, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Nombre_tienda, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    Categoria Tienda
+                    @*@Html.LabelFor(model => model.Categoria_tienda, htmlAttributes: new { @class = "control-label col-md-2" })*@
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Categoria_tienda, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Categoria_tienda, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    Nombres Representante ó Vendedor
+                    @*@Html.LabelFor(model => model.Nombres_vendedor, htmlAttributes: new { @class = "control-label col-md-2" })*@
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Nombres_vendedor, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Nombres_vendedor, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    Apellidos Representante ó Vendedor
+                    @*@Html.LabelFor(model => model.Apellidos_vendedor, htmlAttributes: new { @class = "control-label col-md-2" })*@
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Apellidos_vendedor, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Apellidos_vendedor, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    Correo Electronico
+                    @*@Html.LabelFor(model => model.Correo_vendedor, htmlAttributes: new { @class = "control-label col-md-2" })*@
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Correo_vendedor, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Correo_vendedor, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    Celular
+                    @Html.LabelFor(model => model.Celular_vendedor, htmlAttributes: new { @class = "control-label col-md-2" })
+                    <div class="col-md-10">
+                        @Html.EditorFor(model => model.Celular_vendedor, new { htmlAttributes = new { @class = "form-control" } })
+                        @Html.ValidationMessageFor(model => model.Celular_vendedor, "", new { @class = "text-danger" })
+                    </div>
+                </div>
+
+                <div class="form-group">
+                    <div class="col-md-offset-2 col-md-10">
+                        <input type="submit" value="Enviar" class="btn btn-default" id="enviar" />
+                    </div>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="col-md-7" id="cuadro2">
+            <h1>¿Tienes un negocio o vendes algún producto y quieres vender por internet pero no sabes como hacerlo?</h1><br />
+            <h2>Contacta con nosotros y lo haremos por ti.</h2>
+            <div class="link-list">
+                @Html.ActionLink("Listado", "Listado")
+            </div>
+        </div>
+
+    </div>
+
+}
+
+

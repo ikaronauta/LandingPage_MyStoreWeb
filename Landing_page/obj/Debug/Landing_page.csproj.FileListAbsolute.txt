@@ -1,0 +1,235 @@
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\obj\Debug\Landing_page.csprojAssemblyReference.cache
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\obj\Debug\Landing_page.csproj.CoreCompileInputs.cache
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\Landing_page.dll.config
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\Landing_page.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\Landing_page.pdb
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\csc.exe
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\csc.exe.config
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\csc.rsp
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\csi.exe
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\csi.exe.config
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\csi.rsp
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\System.AppContext.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\System.Console.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\System.IO.Compression.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\System.Net.Http.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\System.ValueTuple.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\vbc.exe
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\vbc.exe.config
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\vbc.rsp
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\VBCSCompiler.exe
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\System.Web.Helpers.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\System.Web.Mvc.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\System.Web.Razor.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\System.Web.Webpages.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\System.Web.Webpages.Razor.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\System.Web.Razor.xml
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\System.Web.Webpages.xml
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\System.Web.Webpages.Razor.xml
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\System.Web.Helpers.xml
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\System.Web.Mvc.xml
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\es\System.Web.Razor.resources.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\es\System.Web.Webpages.resources.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\obj\Debug\Landing_page.csproj.CopyComplete
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\obj\Debug\Landing_page.dll
+C:\Users\ortiz\source\repos\5 Trimestre\Landing_page\Landing_page\obj\Debug\Landing_page.pdb
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\Landing_page.dll.config
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\Landing_page.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\Landing_page.pdb
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\csc.exe
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\csc.exe.config
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\csc.rsp
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\csi.exe
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\csi.exe.config
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\csi.rsp
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\System.AppContext.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\System.Console.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\System.IO.Compression.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\System.Net.Http.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\System.Net.Sockets.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\System.ValueTuple.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\System.Xml.XPath.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\vbc.exe
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\vbc.exe.config
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\vbc.rsp
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\VBCSCompiler.exe
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\System.Web.Helpers.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\System.Web.Mvc.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\System.Web.Razor.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\System.Web.Webpages.Deployment.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\System.Web.Webpages.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\System.Web.Webpages.Razor.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\System.Web.Razor.xml
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\System.Web.Webpages.xml
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\System.Web.Webpages.Deployment.xml
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\System.Web.Webpages.Razor.xml
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\System.Web.Helpers.xml
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\System.Web.Mvc.xml
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\es\System.Web.Razor.resources.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\es\System.Web.Webpages.resources.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\es\System.Web.Helpers.resources.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\bin\es\System.Web.Mvc.resources.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\obj\Debug\Landing_page.csprojAssemblyReference.cache
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\obj\Debug\Landing_page.csproj.CoreCompileInputs.cache
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\obj\Debug\Landing_page.csproj.CopyComplete
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\obj\Debug\Landing_page.dll
+C:\Users\santi\Source\Repos\Landing_page-20210408T192604Z-001\Landing_page\Landing_page\obj\Debug\Landing_page.pdb
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\Landing_page.dll.config
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\Landing_page.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\Landing_page.pdb
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\csc.exe
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\csc.exe.config
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\csc.rsp
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\csi.exe
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\csi.exe.config
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\csi.rsp
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\desktop.ini
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\System.AppContext.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\System.Console.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\System.IO.Compression.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\System.Net.Http.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\System.Net.Sockets.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\System.ValueTuple.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\vbc.exe
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\vbc.exe.config
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\vbc.rsp
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\VBCSCompiler.exe
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\System.Web.Helpers.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\System.Web.Mvc.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\System.Web.Razor.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\System.Web.Webpages.Deployment.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\System.Web.Webpages.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\System.Web.Webpages.Razor.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\System.Web.Razor.xml
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\System.Web.Webpages.xml
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\System.Web.Webpages.Deployment.xml
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\System.Web.Webpages.Razor.xml
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\System.Web.Helpers.xml
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\System.Web.Mvc.xml
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\es\System.Web.Razor.resources.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\es\System.Web.Webpages.resources.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\es\System.Web.Helpers.resources.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\bin\es\System.Web.Mvc.resources.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\obj\Debug\Landing_page.csprojAssemblyReference.cache
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\obj\Debug\Landing_page.csproj.CoreCompileInputs.cache
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\obj\Debug\Landing_page.csproj.CopyComplete
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\obj\Debug\Landing_page.dll
+C:\Users\ortiz\source\repos\5 Trimestre\LandingMyStoreWebAsp-main\Landing_page\obj\Debug\Landing_page.pdb

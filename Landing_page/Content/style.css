@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(https://images.pexels.com/photos/6347955/pexels-photo-6347955.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#boton{
+    display: inline-block;
+    background-color: black;
+    color: cornsilk;
+}
+
+footer{
+    padding-top: 10px;
+    background-color: black;
+    color: cornsilk;
+    text-align: center;
+}
+
+#cuadro1{
+    margin-left: 3%;
+    padding: 2% 0% 0% 2%;
+    width: 25%;
+    background-color: coral;
+    
+    
+}
+
+#cuadro2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: black;
+    text-align: center;
+    padding: 5% 20% 6% 4%;
+    
+}
+
+#padre{
+    margin-top: 3%;
+}
+
+#enviar{
+    margin-top: 3%;
+    background-color: black;
+    color: blanchedalmond;
+}
+

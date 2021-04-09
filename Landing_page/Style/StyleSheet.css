@@ -1,0 +1,110 @@
+﻿/* Home Layout CSS */
+
+.intro-product {
+    margin-top: 100px;
+}
+
+.title-intro {
+    text-align: center;
+    color: #F7FCFF;
+}
+
+.buttons-intro{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.create_button {
+    background-color: #A89171;
+    border: none;
+    border-radius: 12px;
+    color: #F7FCFF;
+    padding: 12px 20px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.create_button a{
+    text-decoration: none;
+}
+
+.create_button p {
+    margin: 0px;
+}
+
+.create_button a:link {
+    color: #F7FCFF;
+}
+
+.create_button a:visited {
+    color: #F7FCFF;
+}
+
+.create_button a:active {
+    color: #F7FCFF;
+}
+
+.create_button a:hover {
+    color: #F7FCFF;
+}
+
+footer {
+    position: fixed;
+    left: 0px;
+    bottom: 0px;
+    width: 100%;
+    line-height: 1.8px;
+}
+
+/*Home Create CSS*/
+
+#cuadro1 {
+    background-color: #A89171;
+    color: #F7FCFF;
+    padding: 2% 2% 2% 2%;
+}
+
+.col-md-10 {
+    width: 100%;
+}
+
+#enviar {
+    background-color: #8299A8;
+    color: #F7FCFF;
+}
+
+.col-md-offset-2.col-md-10 {
+    text-align: center;
+}
+
+#cuadro2 {
+    color: #F7FCFF;
+}
+
+.link-list {
+    text-align:center;
+    margin-bottom: 20px;
+}
+
+.link-list a:link {
+    color: #F7FCFF;
+}
+
+.link-list a:visited {
+    color: #F7FCFF;
+}
+
+.link-list a:active {
+    color: #F7FCFF;
+}
+
+.table {
+    background-color:#F7FCFF;
+    color: black;
+    border-color: rgb(23, 24, 27);
+}
+
+.create-item {
+    color: #F7FCFF;
+}
